@@ -1,0 +1,8 @@
+{
+    "discord_token": "YOUR_DISCORD_BOT_TOKEN",
+    "spotify_client_id": "YOUR_SPOTIFY_CLIENT_ID",
+    "spotify_client_secret": "YOUR_SPOTIFY_CLIENT_SECRET",
+    "acrcloud_access_key": "YOUR_ACRCLOUD_ACCESS_KEY",
+    "acrcloud_access_secret": "YOUR_ACRCLOUD_ACCESS_SECRET"
+  }
+  
