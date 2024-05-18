@@ -1,0 +1,17 @@
+{
+  "name": "discord-music-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for playing music from YouTube and identifying songs.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@sindresorhus/is": "^5.0.0",
+    "acrcloud": "^1.2.0",
+    "discord.js": "^13.5.0",
+    "node-fetch": "^3.0.0",
+    "spotify-web-api-node": "^5.0.0",
+    "ytdl-core": "^4.11.5"
+  }
+}

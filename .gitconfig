@@ -1,0 +1,36 @@
+[user]
+    name = Nekoota
+    email = anata.wa.mee@gmail.com
+
+[core]
+    editor = code --wait
+    autocrlf = input
+    whitespace = fix,-indent-with-non-tab,trailing-space,cr-at-eol
+
+[alias]
+    co = checkout
+    br = branch
+    ci = commit
+    st = status
+    lg = log --oneline --graph --all --decorate
+
+[push]
+    default = simple
+
+[diff]
+    tool = meld
+
+[merge]
+    tool = meld
+
+[diff "tool"]
+    prompt = false
+
+[credential]
+    helper = store
+
+[http]
+    sslVerify = true
+
+[color]
+    ui = auto
